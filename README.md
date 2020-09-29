@@ -1,2 +1,4 @@
 # Scrape-Youtube-Video-Python-
-save youtube videos in a local file and also convert them into a gif
+
+- Scrape youtube videos as a local .mp4 file using _pytube_
+- save as a gif using _imageio_
